@@ -14,5 +14,5 @@ print("free" in txt)
 print("Expensive" not in txt)
 
 # using an if statement:
-if "expesive" not in txt:
+if "expensive" not in txt:
     print("No, 'expensive' is NOT present")
